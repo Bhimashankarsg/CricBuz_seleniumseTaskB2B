@@ -9,7 +9,7 @@ public class propertyFile
 	public String getPlayerName()  {
 		try {
 	Properties pos=new Properties();
-	FileInputStream fos=new FileInputStream("./src/test/resources/playerName.propertiess");
+	FileInputStream fos=new FileInputStream("./src/test/resources/playerName.propertiesss");
 	pos.load(fos);
 	String playerName=pos.getProperty("playerName");
 	return playerName;
