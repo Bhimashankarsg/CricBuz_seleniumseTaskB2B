@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-15T15:32:25 IST" name="Suite" finished-at="2026-07-15T15:32:32 IST" duration-ms="6431">
+    <groups>
+    </groups>
+    <test started-at="2026-07-15T15:32:25 IST" name="TestNG" finished-at="2026-07-15T15:32:32 IST" duration-ms="6431">
+      <class name="cricBuzTest.playersDetailsTest">
+        <test-method is-config="true" signature="bc()[pri:0, instance:cricBuzTest.playersDetailsTest@2cb4893b]" started-at="2026-07-15T15:32:25 IST" name="bc" finished-at="2026-07-15T15:32:28 IST" duration-ms="2841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:cricBuzTest.playersDetailsTest@2cb4893b]" started-at="2026-07-15T15:32:28 IST" name="bm" finished-at="2026-07-15T15:32:29 IST" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="playersTest()[pri:0, instance:cricBuzTest.playersDetailsTest@2cb4893b]" started-at="2026-07-15T15:32:29 IST" name="playersTest" finished-at="2026-07-15T15:32:31 IST" duration-ms="2316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- playersTest -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:cricBuzTest.playersDetailsTest@2cb4893b]" started-at="2026-07-15T15:32:31 IST" name="ac" finished-at="2026-07-15T15:32:32 IST" duration-ms="420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- cricBuzTest.playersDetailsTest -->
+    </test> <!-- TestNG -->
+  </suite> <!-- Suite -->
+</testng-results>
