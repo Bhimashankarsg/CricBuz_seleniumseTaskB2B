@@ -21,7 +21,7 @@ public class playersDetailsTest  extends BaseClass {
 		UtilityClassObject.getTest().info("Launced the browser");
 		objectRepositories objCricBuz=new objectRepositories(driver);
 		objCricBuz.clickRanking();
-		UtilityClassObject.getTest().info("clicked on ranking menu");
+		UtilityClassObject.getTest().info("clicked on ranking menu ..");
 		objCricBuz.clickODIbutton();
 		UtilityClassObject.getTest().info("clicked on odi button");
 		
