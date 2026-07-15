@@ -23,7 +23,7 @@ public class playersDetailsTest  extends BaseClass {
 		objCricBuz.clickRanking();
 		UtilityClassObject.getTest().info("clicked on ranking menu ..");
 		objCricBuz.clickODIbutton();
-		UtilityClassObject.getTest().info("clicked on odi button");
+		UtilityClassObject.getTest().info("clicked on odi button..");
 		
 		String playerName=pf.getPlayerName();
 		UtilityClassObject.getTest().info("Get player name : <b>"+playerName);
